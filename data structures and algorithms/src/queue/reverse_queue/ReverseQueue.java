@@ -23,6 +23,7 @@ public class ReverseQueue {
         queue.add(10);
         queue.add(20);
         queue.add(30);
+//        System.out.println(queue.peek());
 
         reverseQueue(queue);
     }
